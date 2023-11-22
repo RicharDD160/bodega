@@ -1,0 +1,1 @@
+la carpeta de bodega se debe poner en la carpeta de htdocs (xampp)
